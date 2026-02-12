@@ -18,7 +18,6 @@ int main(void)
 
   double result = 0.0;
   {
-
     switch (operator)
     {
     case '+':
